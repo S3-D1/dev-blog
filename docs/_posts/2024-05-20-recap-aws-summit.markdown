@@ -16,7 +16,7 @@ categories: [dev]
 > - GenAI is everywhere - AWS Bedrock and more
 > - Karpenter - smart scaling for Kubernetes
 
-![DALL-E AWS Summit 2024 Berlin Scene]({{ relative_url }}/assets/images/2024-05-20-recap-aws-summit.jpeg)
+![DALL-E AWS Summit 2024 Berlin Scene]({{ site.baseurl }}/assets/images/2024-05-20-recap-aws-summit.jpeg)
 
 Last week, I had the pleasure of attending the AWS Summit in Berlin with my colleague Erik. After a tricky road trip with traffic jams and a hidden hotel parking garage, we arrived just in time for the summit. A quick cup of coffee later, we entered the keynote
 area.
