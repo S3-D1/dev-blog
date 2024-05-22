@@ -26,6 +26,8 @@ baseurl: "/dev-blog" # the subpath of your site, e.g. /blog
 url: "https://s3-d1.github.io"
 github_username:  S3-D1
 
+excerpt_separator: "<!-- excerpt-end -->"
+
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:

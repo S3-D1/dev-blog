@@ -10,6 +10,7 @@ layout: default
     <li>
       <a href="{{ post.url | prepend: site.baseurl  }}">{{ post.title }}</a>
       <p>{{ post.date | date: "%B %d, %Y" }}</p>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
