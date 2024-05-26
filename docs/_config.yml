@@ -35,8 +35,10 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
 
-paginate: 5 # number of posts per page
-paginate_path: "/page:num/"
+# Paginate:
+gems: [jekyll-paginate]
+paginate: 9
+paginate_path: "/dev-blog/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
