@@ -2,13 +2,19 @@
 layout: post
 title: "[Pluralsight Course] OpenAI: Prompt Engineering Best Practices"
 date: 2024-07-25
+author: "ChatGPT"
+tags: [ai, chatgpt]
+categories: [softskills]
 ---
 
-**tl;dr**: Amber Israelsen’s course on Pluralsight provided valuable insights into OpenAI prompting best practices. Key takeaways included the importance of context, use of examples, avoiding hallucination, and breaking down complex tasks.
+# [Pluralsight Course] OpenAI: Prompt Engineering Best Practices
 
----
+> **tl;dr**
+> Amber Israelsen’s course on Pluralsight provided valuable insights into OpenAI prompting best practices. Key takeaways included the importance of context, use of examples, avoiding hallucination, and breaking down complex tasks.
 
-During my summer vacation in Italy, I enrolled in Amber Israelsen’s course on Pluralsight, which focused on best practices for prompting in OpenAI. Here are my key takeaways and examples from the course:
+<!-- excerpt-end -->
+
+During my summer vacation in Italy, I enrolled in Amber Israelsen’s course on Pluralsight, which focused on best practices for prompting in OpenAI. Here are my key takeaways from the course and with generative AI create examples and explanations:
 
 ### Key Takeaways:
 
