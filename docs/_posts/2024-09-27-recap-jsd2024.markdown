@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Recap of AWS Summit Berlin 2024"
-date:   2024-05-20 21:04:30 +0200
+title:  "JavaUserGroup Saxony Day - 2024-09-27"
+date:   2024-10-06 11:04:30 +0200
 author: "S3-D1"
 tags: [java, events, dresden, jug, saxony, jsd, conference, recap]
 categories: [dev]
