@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Recap of AWS Summit Berlin 2024"
+date:   2024-05-20 21:04:30 +0200
+author: "S3-D1"
+tags: [java, events, dresden, jug, saxony, jsd, conference, recap]
+categories: [dev]
+---
+
+# JavaUserGroup Saxony Day - 2024-09-27
+
+> **tl;dr**
+>
+> The JSD2024 was great event as always. The JUG Saxony is organizing a big conference with topics in a wide-range, attendees from different states in Germany and also with different interests and skills. My top three takeaways are:
+> - The medical sector has comparable challenges to the automotive sector
+> - Not every metaphor is working for anyone in the audience
+> - Automotive can be sexy with a well-adapted motivational speech
+
+<!-- excerpt-end -->
+
+![DALL-E Ostrich of Features Visualization]({{ site.baseurl }}/assets/images/2024-09-27-recap-jsd2024.jpg)
+
+The community of JUG Saxony is one of the most active communities for developers in Saxony. There are evening events in Dresden, Leipzig, and Chemnitz, and the annual JavaUserGroup Saxony Day (JSD) is the highlight of the year. This year, the JSD took place again in Radebeul, and it was a great event as always.
+With around 500 attendees, it is quite a big conference and the interests and skills of the attendees are quite diverse. That leads to an interesting program sheet and the selection of the keynote is always indicated to provide a topic that brings you some insides, that are not part of your daily business.
+Unfortunately, there was of last second changes in the agenda, so missed for example a deep technical talk about the JVM and some of the other talks was a little bit overbooked therefore. But this just forces me again to live outside my bubble.
+
+##  Thoughts I still have in mind
+### About the talks
+At the conference this year there was not that one talk that totally blows my mind. But there is a few impulses was triggering my head. 
+The first impulse was provided by the keynote speaker when she was talking about restrictions of a highly regulated sector. Because of hard release processes it is not possible to introduce AI driven features in the daily medical live fast. But as they are not allowed to use a fully automated solution, they try to introduce it just as an AI supported workflow. They highlight something on a picture, they suggest molecular structures, they augment the reality during a medical treatment. They do anything which is possible to start using AI.
+The second impulse was more like a self-triggered idea. I was listening to a talk about continuous improvements in a test environment for mobile apps. But in my head one of the key points of lean was raised. Start fast and then iterate, iterate, iterate. And this is always a good approach. A good approach for software engineering, a good approach for CI and DevOps workflows and a good approach for automotive testing. I iterate often, but sometimes I overthink some points and be not fast enough in starting and therefore the first iteration takes too long. Just do it should be the credo. Then do it right.
+The third impulse was a reminder to always try to understand your chosen languages, frameworks and technologies. You develop with Python, but your code is not pythonic? You use Java but not understand the JVM? You use Spring but not understand the mechanics there? Then you still stay a junior - go back and learn your handcraft. 
+And the fourth impulse was provided by my former colleague and friend Alexander Lehmann. His talk about Serverless and the question if Serverless has a worth to learn. But the impulse was not the content of the talk itself. There was one point where in an AWS based infrastructure with Python implementations but for one specific task Typescript was used. So break the chains and think out of the box. Don't decide because of past decisions. Consistency is a quite important point, but it shouldn't be the only argument that is needed and of course it should not win, against better arguments by default.
+If I think about these impulses now, no of them was intended by the speaker, I guess. But that's the magic of everyone's own brain. You hear something, you think about it and you get your own ideas. And that's the reason why I love to attend conferences, listen to talks, podcasts, Blinks and books, often inside my bubble, but outside my bubble as well.
+
+### About the speeches, slides and demos
+For the most attendees of a talk, the content and the main ideas matters most. Tobias Beck instead says, "The setting is always more important than the content." For me, it's both. As the content is well fitting to me and my thoughts and my interests, I'm quite excited to see what they will present. But as a speaker, I'm always looking to the setting, the slides, the metaphors and the style.
+When I visit a talk then I evaluate the performance of the speaker automatically. How sounds his/her voice? How is the selection of words? Is it fun to listen? Is it hard to stay focused? Triggers the speech thoughts in the same direction then the speech is moving? Are there metaphors that are supporting my mind? Is there a supporting or a distracting slide set? Seems the speaker to be proud about his topic? Do you feel his passion?
+There was a wide-range of experience in the talks. Speakers delivered there first talk ever, some speakers are there every year, some speakers are giving talks daily and some speakers just love the spotlight and deliver on point.
+The points I still have in mind are not new, they are just reminders. Don't be funny because someone says you have to. Map your wording to the audience. Use lean slides that supports the understanding, not let them replacing you. Reduce chars on slides, but use them if the visualization is not self-explaining. In deep talks it is ok to lose some attendees, but bring them back on track after some time. And the most important point for me: if you are not proud of the topic behind your talk, drop it. The attendees are worth to get a great passionated talk, not just a talk. Don't waste their time.  
+
+### About my discussions
+After and sometimes also during the talks we have discussions about the content of the talk. This is also part of the great conference feeling when you are not alone. Within a deep talk on stream gatherers Till, Tilo, Hanna and me was working on our own understanding and bug tracking on the slides of the speaker. Quite funny to understand heavy things by your own, when the slide is not providing the right content always. Together with Max I also had some "funny" talks but our discussions was more or less just to check if we both are on the same page - unfortunately that was not that one of the speaker.
+The best discussion was in the breaks. I love to support our tracetronic booths. It is a great chance to tests some pitches, explanations, answer some questions and get insights into the mind of students, trainees and other externals. There was two or three where I can see their passion in their eyes, I think we would miss them in daily business because of their backgrounds and our visibility in their daily life. One of them was working on an own programming language because of the absence of a feature in Java-based languages which was introduced in Rust sometimes ago. Great to see his passion - good luck to him.
+These discussions make the time worth in any case.
+
+## The absence of Automotive DevOps and the insufficiency of depth of testing
+tracetronic and neocx together was there with around 25 person. So at least 5 percent of the attendees was working for the automotive sector. Some more because of some other companies related to that sector but the one speaker who has a connection to an automotive company was just talking about mobile app testing.
+No one was talking about automotive software development, no one was talking about automotive testing and no one was talking about automotive DevOps. We need more visibility for this topic. We need the visibility for automotive DevOps in the automotive sector, and we need it in the recruiting. Automotive DevOps will lead us to safe and secure Software-Defined-Vehicles, it will lead us safe and secure autonomous driving, it will lead us to the absence of security risks because of outdated cars. 
+But it will be still a long journey, and we need smart people working on that topics. To get them on track we have to talk about it, we have to be catchy, and we have to be loud. The topic is nothing that has to be in the background. There has to be at least one talk based on that area and let's see maybe I request to get the next keynote for that.
